@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">APPUcenmPM01</string>
+    <string name="form_title">Formulario de Personas</string>
+    <string name="person_form_title">Formulario de Personas</string>
+    <string name="person_form_subtitle">Ingrese los datos correspondientes</string>
+    <string name="person_identification">Identificación</string>
+    <string name="person_identification_label">Identificación</string>
+    <string name="person_identification_hint">Ingrese identificación</string>
+    <string name="person_identification_helper">Ejemplo: 0801-1990-12345</string>
+    <string name="person_first_names">Nombres</string>
+    <string name="person_last_names">Apellidos</string>
+    <string name="person_birth_date">Fecha de Nacimiento</string>
+    <string name="person_birth_date_label">Fecha de Nacimiento</string>
+    <string name="person_birth_date_hint">Seleccione la fecha</string>
+    <string name="person_birth_date_helper">Seleccione su fecha de nacimiento</string>
+    <string name="person_address_label">Dirección</string>
+    <string name="person_phone">Teléfono</string>
+    <string name="person_email_label">Correo Electrónico</string>
+</resources>
